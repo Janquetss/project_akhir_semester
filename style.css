@@ -112,3 +112,12 @@ button:hover span {
 button:hover {
     border: none;
 }
+
+button a:link {
+    display: block;
+    color: white;
+}
+
+button a:visited {
+    color: white;
+}
